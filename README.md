@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Charlie Youssef.
-- 👀 I’m interested in improving my coding
 - 📫 How to reach me: charlieyoussef21@gmail.com
 
 <!---
