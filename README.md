@@ -6,9 +6,14 @@ Computer Science graduate with strong foundations in software development, data 
 
 ## Technical Projects
 
+### Banking System
+**Tech Stack:** Django REST, React, MySQL, JWT, Bootstrap5
+-A full-stack banking web application using Django REST framework and React with account and transaction management, underwriting simulation, and relational financial data modeling.
+-Built secure REST APIs, dynamic frontend forms with TypeScript and Bootstrap, and implemented banking workflows including account creation, balance tracking, transfers, and user onboarding.
+
 ### Online Shop
-**Tech Stack:** Flask, MySQL, Bootstrap 5, HTML, CSS  
-- Built a full-featured e-commerce web application using Flask.
+**Tech Stack:** Django, MySQL, Bootstrap 5, HTML, CSS  
+- Built a full-featured e-commerce web application using Django and styled in Bootstrap.
 - Implemented user authentication, product browsing, shopping cart functionality, and an admin panel for product management.
 
 ### Student Management System
