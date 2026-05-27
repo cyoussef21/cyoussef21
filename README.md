@@ -8,8 +8,8 @@ Computer Science graduate with strong foundations in software development, data 
 
 ### Banking System
 **Tech Stack:** Django REST, React, MySQL, JWT, Bootstrap5
--A full-stack banking web application using Django REST framework and React with account and transaction management, underwriting simulation, and relational financial data modeling.
--Built secure REST APIs, dynamic frontend forms with TypeScript and Bootstrap, and implemented banking workflows including account creation, balance tracking, transfers, and user onboarding.
+- A full-stack banking web application using Django REST framework and React with account and transaction management, underwriting simulation, and relational financial data modeling.
+- Built secure REST APIs, dynamic frontend forms with TypeScript and Bootstrap, and implemented banking workflows including account creation, balance tracking, transfers, and user onboarding.
 
 ### Online Shop
 **Tech Stack:** Django, MySQL, Bootstrap 5, HTML, CSS  
